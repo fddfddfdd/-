@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c54aee76-de65-420c-b12f-add0eb3d20bc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="108" column="122" selection-start-line="108" selection-start-column="122" selection-end-line="108" selection-end-column="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1450">
+              <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/list.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2425">
+              <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4775">
+              <caret line="191" column="26" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aside</find>
+      <find>#toplist</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.toplist</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/使用选择器来插入内容/index3.html" />
+        <option value="$PROJECT_DIR$/使用选择器来插入内容/index4.html" />
+        <option value="$PROJECT_DIR$/使用选择器来插入内容/index5.html" />
+        <option value="$PROJECT_DIR$/文字阴影与自动换行/index1.html" />
+        <option value="$PROJECT_DIR$/文字阴影与自动换行/index2.html" />
+        <option value="$PROJECT_DIR$/文字阴影与自动换行/index3.html" />
+        <option value="$PROJECT_DIR$/文字阴影与自动换行/index4.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index1.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index2.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index4.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index5.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index6.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index7.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index9.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index10.html" />
+        <option value="$PROJECT_DIR$/overflow属性/index.html" />
+        <option value="$PROJECT_DIR$/box-shadow属性的使用方法/index1.html" />
+        <option value="$PROJECT_DIR$/box-shadow属性的使用方法/index2.html" />
+        <option value="$PROJECT_DIR$/CSS3中新增的背景属性/index1.html" />
+        <option value="$PROJECT_DIR$/CSS3中新增的背景属性/index2.html" />
+        <option value="$PROJECT_DIR$/CSS3中新增的背景属性/index3.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index3.html" />
+        <option value="$PROJECT_DIR$/各种盒的类型/index8.html" />
+        <option value="$PROJECT_DIR$/box-shadow属性的使用方法/index3.html" />
+        <option value="$PROJECT_DIR$/CSS3中边框相关的样式/index1.html" />
+        <option value="$PROJECT_DIR$/CSS3中边框相关的样式/index2.html" />
+        <option value="$PROJECT_DIR$/CSS3中的变形功能/index1.html" />
+        <option value="$PROJECT_DIR$/CSS3中的变形功能/index2.html" />
+        <option value="$PROJECT_DIR$/CSS3中的变形功能/index3.html" />
+        <option value="$PROJECT_DIR$/CSS3中的变形功能/index4.html" />
+        <option value="$PROJECT_DIR$/CSS3的动画功能/index1.html" />
+        <option value="$PROJECT_DIR$/CSS3的动画功能/index2.html" />
+        <option value="$PROJECT_DIR$/CSS3布局相关样式/index1.html" />
+        <option value="$PROJECT_DIR$/CSS3布局相关样式/index2.html" />
+        <option value="$PROJECT_DIR$/CSS3布局相关样式/index3.html" />
+        <option value="$PROJECT_DIR$/CSS3布局相关样式/index4.html" />
+        <option value="$PROJECT_DIR$/CSS3布局相关样式/index5.html" />
+        <option value="$PROJECT_DIR$/CSS3布局相关样式/index6.html" />
+        <option value="$PROJECT_DIR$/Media Queries模块/index.html" />
+        <option value="$PROJECT_DIR$/Media Queries模块/index1.html" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/list.html" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/content.html" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/css/style.css.html" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/index.html" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/css/style.css" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/piclist.html" />
+        <option value="$PROJECT_DIR$/企业网站制作项目/css/list.css" />
+        <option value="$PROJECT_DIR$/list.html" />
+        <option value="$PROJECT_DIR$/piclist.html" />
+        <option value="$PROJECT_DIR$/content.html" />
+        <option value="$PROJECT_DIR$/css/list.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="623" />
+    <option name="y" value="2" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="企业网站制作项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="企业网站制作项目" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="企业网站制作项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="企业网站制作项目" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="企业网站制作项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="企业网站制作项目" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\video元素与audio元素" />
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\HTML拖放" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\企业网站制作项目\images" />
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\企业网站制作项目\js" />
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\CSS3中边框相关的样式" />
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\CSS3中新增的背景属性" />
+      <recent name="E:\技术\前端\HTML5+CSS3\第三节课\文字阴影与自动换行" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c54aee76-de65-420c-b12f-add0eb3d20bc" name="Default" comment="" />
+      <created>1509359946316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509359946316</updated>
+      <workItem from="1509359947705" duration="2996000" />
+      <workItem from="1509413187744" duration="6295000" />
+      <workItem from="1509502212913" duration="3359000" />
+      <workItem from="1509610886514" duration="1456000" />
+      <workItem from="1509934436994" duration="2686000" />
+      <workItem from="1509960592356" duration="599000" />
+      <workItem from="1509968327322" duration="599000" />
+      <workItem from="1510107528494" duration="10590000" />
+      <workItem from="1510191256351" duration="161000" />
+      <workItem from="1510193756259" duration="1824000" />
+      <workItem from="1510277887086" duration="4084000" />
+      <workItem from="1510534969332" duration="1360000" />
+      <workItem from="1510665007777" duration="618000" />
+      <workItem from="1510796620332" duration="4920000" />
+      <workItem from="1510881909212" duration="8926000" />
+      <workItem from="1511142052703" duration="3553000" />
+      <workItem from="1511227704964" duration="6106000" />
+      <workItem from="1511426673656" duration="2678000" />
+      <workItem from="1511442344663" duration="1484000" />
+      <workItem from="1511490067499" duration="4857000" />
+      <workItem from="1511833807771" duration="13109000" />
+      <workItem from="1511952782853" duration="55000" />
+      <workItem from="1512038053607" duration="599000" />
+      <workItem from="1512095694716" duration="1797000" />
+      <workItem from="1512351525354" duration="639000" />
+      <workItem from="1512353818435" duration="6323000" />
+      <workItem from="1512436433501" duration="9414000" />
+      <workItem from="1512551166437" duration="178000" />
+      <workItem from="1512551476394" duration="1112000" />
+      <workItem from="1512614282372" duration="11231000" />
+      <workItem from="1512976788261" duration="4870000" />
+      <workItem from="1513041382638" duration="6211000" />
+      <workItem from="1513127579897" duration="4511000" />
+      <workItem from="1513255473906" duration="68000" />
+      <workItem from="1513255577960" duration="47000" />
+      <workItem from="1513307090695" duration="694000" />
+      <workItem from="1513308474453" duration="2053000" />
+      <workItem from="1513577722840" duration="3193000" />
+      <workItem from="1513647977039" duration="10737000" />
+      <workItem from="1513733119477" duration="3750000" />
+      <workItem from="1519614401983" duration="390000" />
+      <workItem from="1519615221130" duration="5677000" />
+      <workItem from="1519645856211" duration="3943000" />
+      <workItem from="1519649871102" duration="1844000" />
+      <workItem from="1519715895634" duration="7422000" />
+      <workItem from="1519785287677" duration="3342000" />
+      <workItem from="1520217573375" duration="14646000" />
+      <workItem from="1520842728294" duration="16000" />
+      <workItem from="1520842824160" duration="5024000" />
+      <workItem from="1520941202770" duration="3240000" />
+      <workItem from="1520996900807" duration="599000" />
+      <workItem from="1521117773870" duration="1821000" />
+      <workItem from="1521168428231" duration="4236000" />
+      <workItem from="1521509597494" duration="9643000" />
+      <workItem from="1522290154584" duration="297000" />
+      <workItem from="1522290573952" duration="599000" />
+      <workItem from="1522651304805" duration="6571000" />
+      <workItem from="1522745075625" duration="599000" />
+      <workItem from="1523448017662" duration="1000" />
+      <workItem from="1523883645400" duration="2587000" />
+      <workItem from="1523935204920" duration="21000" />
+      <workItem from="1523935327864" duration="3110000" />
+      <workItem from="1524121747661" duration="8955000" />
+      <workItem from="1524146363359" duration="35000" />
+      <workItem from="1524186999178" duration="561000" />
+      <workItem from="1524187622460" duration="1898000" />
+      <workItem from="1524485900623" duration="4617000" />
+      <workItem from="1524728751594" duration="5747000" />
+      <workItem from="1524812415057" duration="504000" />
+      <workItem from="1525223315035" duration="2407000" />
+      <workItem from="1525316935026" duration="6000" />
+      <workItem from="1528078174720" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07467057" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/文字阴影与自动换行/index4.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index1.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index2.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index3.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index4.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index5.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index6.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index7.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index8.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index9.html" />
+    <entry file="file://$PROJECT_DIR$/box-shadow属性的使用方法/index1.html" />
+    <entry file="file://$PROJECT_DIR$/box-shadow属性的使用方法/index2.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中新增的背景属性/index1.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3的动画功能/index1.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3的动画功能/index2.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3布局相关样式/index2.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3布局相关样式/index1.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3布局相关样式/index3.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3布局相关样式/index4.html" />
+    <entry file="file://$PROJECT_DIR$/Media Queries模块/index1.html" />
+    <entry file="file://$PROJECT_DIR$/Media Queries模块/index.html" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/list.html" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/content.html" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/css/style.css.html" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/js/scripts.js" />
+    <entry file="file://$PROJECT_DIR$/CSS3中的变形功能/index1.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中的变形功能/index2.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中的变形功能/index3.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中的变形功能/index4.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3布局相关样式/index6.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3布局相关样式/index5.html" />
+    <entry file="file://$PROJECT_DIR$/各种盒的类型/index10.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中边框相关的样式/index2.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中边框相关的样式/index1.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中新增的背景属性/index3.html" />
+    <entry file="file://$PROJECT_DIR$/CSS3中新增的背景属性/index2.html" />
+    <entry file="file://$PROJECT_DIR$/box-shadow属性的使用方法/index3.html" />
+    <entry file="file://$PROJECT_DIR$/overflow属性/index.html" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/index.html" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/css/list.css" />
+    <entry file="file://$PROJECT_DIR$/企业网站制作项目/piclist.html" />
+    <entry file="file://$USER_HOME$/Desktop/list.html" />
+    <entry file="file://$PROJECT_DIR$/piclist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="63" lean-forward="true" selection-end-line="114" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/content.html" />
+    <entry file="file://$USER_HOME$/Desktop/list.css" />
+    <entry file="file://$PROJECT_DIR$/css/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4775">
+          <caret line="191" column="26" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="108" column="122" selection-start-line="108" selection-start-column="122" selection-end-line="108" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
